@@ -1,0 +1,15 @@
+.arkaplan {
+    background-color:#E9ECEF;
+}
+
+ul.listeleme {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.fnt {
+    font-size: 0px;
+    font-family: 'Lucida Sans';
+    font-style:oblique;
+    text-decoration:none;
+}
